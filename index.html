@@ -6,13 +6,13 @@
     </head>
     <style type="text/css">
     body {
-        min-height: 100vh;
-        margin: 0;
-        background: linear-gradient(135deg, #e6f9ed 0%, #b7e4c7 100%);
-        color: #1b3a2b;
-        font-family: 'Segoe UI', 'Lucida Sans', sans-serif;
-        font-size: 18px;
-        letter-spacing: 0.01em;
+    min-height: 100vh;
+    margin: 0;
+    background: linear-gradient(135deg, #e6f9ed 0%, #b7e4c7 100%);
+    color: #1b3a2b;
+    font-family: 'Segoe UI', 'Lucida Sans', sans-serif;
+    font-size: 18px;
+    letter-spacing: 0.01em;
     font-family: 'STIX Two Text', 'Georgia', 'Times New Roman', serif;
     }
     .container {
@@ -24,17 +24,16 @@
         padding: 32px 60px 60px 60px;
         position: relative;
     }
-    h1 {
-        text-align: center;
-        font-size: 2.8em;
-        font-weight: 700;
-        color: #218838;
-        margin-top: 0.5em;
-        margin-bottom: 0.2em;
-        letter-spacing: 0.04em;
-        text-shadow: none;
-        font-family: 'STIX Two Text', 'Georgia', serif;
-    }
+        h1 {
+            text-align: center;
+            color: #218838;
+            font-family: 'STIX Two Text', 'Georgia', serif;
+            font-size: 2.2em;
+            margin-bottom: 0.2em;
+            letter-spacing: 0.04em;
+            text-shadow: none;
+        }
+    /* Removed stray lines that caused CSS errors */
     h2 {
         text-align: center;
         font-size: 1.5em;
@@ -66,13 +65,13 @@
         border-spacing: 0;
         width: 100%;
         margin-top: 1em;
-        background: #fff;
+    background: #e6f9ed;
         border-radius: 16px;
         overflow: hidden;
         box-shadow: 0 2px 16px rgba(33, 136, 56, 0.10);
     }
     th {
-        background: linear-gradient(90deg, #f8fff8 0%, #b7e4c7 60%, #f8fff8 100%);
+    background: #fff;
         color: #22223b;
         font-weight: 700;
         border-right: 1.5px solid #e6f9ed;
@@ -88,7 +87,7 @@
         border-left: 1px solid #d4d4d4;
         text-align: left;
         padding: 12px 10px;
-        font-size: 1em;
+        font-family: 'STIX Two Text', 'Georgia', 'Times New Roman', serif;
         background: #fff;
         color: #22223b;
         transition: background 0.2s, box-shadow 0.2s;
@@ -96,12 +95,13 @@
         font-family: 'STIX Two Text', 'Georgia', serif;
     }
     tr:nth-child(even) td {
-        background: #e6f9ed;
+    background: #e6f9ed;
         border-right: 1px solid #d4d4d4;
         border-left: 1px solid #d4d4d4;
     }
     tr:hover td {
-        background: #b7e4c7;
+    background: #b7e4c7;
+    color: #22223b;
         box-shadow: 0 2px 8px rgba(33, 136, 56, 0.08);
     }
     td:first-child {
