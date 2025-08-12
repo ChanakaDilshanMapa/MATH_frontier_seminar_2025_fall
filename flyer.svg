@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 2550 3300" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <!-- Editable SVG for flyer.svd, copied from arif.svg -->
+    <!-- You can use your SVG editor extension to modify this file visually -->
+    <g transform="matrix(-0.977775,0,0,0.938645,3100,69.9904)">
+        <rect x="900" y="628.576" width="1227.28" height="271.424" style="fill:url(#_Linear1);"/>
+    </g>
+    <use xlink:href="#_Image2" x="0" y="12.66" width="2205.42px" height="190.382px" transform="matrix(0.999735,0,0,0.996766,0,0)"/>
+    <g transform="matrix(0.869876,0,0,0.869876,1205.24,-124.981)">
+        <path d="M1067.86,371.005C1056.47,349.863 1050,325.681 1050,300C1050,237.1 1088.8,183.191 1143.75,160.92L-1385.53,160.92L-1385.53,371.005L1067.86,371.005Z" style="fill:rgb(177,204,182);stroke:rgb(51,104,69);stroke-width:4.79px;"/>
+    </g>
+    <g transform="matrix(0.765938,0,0,0.765938,-712.941,-362.114)">
+        <text x="1152.78px" y="638.944px" style="font-family:'STIXTwoText-Italic_Bold-Italic', 'STIX Two Text';font-style:italic;font-size:83.333px;fill:rgb(51,104,69);">FR<tspan x="1251.37px " y="638.944px ">O</tspan>NTIER SEMIN<tspan x="1825.7px " y="638.944px ">A</tspan>R</text>
+    </g>
+    <use xlink:href="#_Image3" x="2298.32" y="12.345" width="254.668px" height="191.449px" transform="matrix(0.998699,0,0,0.997131,0,0)"/>
+    <g transform="matrix(-0.869876,0,0,0.869876,3292.94,-124.981)">
+        <path d="M1067.86,371.005C1056.47,349.863 1050,325.681 1050,300C1050,237.1 1088.8,183.191 1143.75,160.92L854.079,160.92L854.079,371.005L1067.86,371.005Z" style="fill:rgb(177,204,182);stroke:rgb(51,104,69);stroke-width:4.79px;"/>
+    </g>
+    <use id="idkjXR8Q0S_logos" xlink:href="#_Image4" x="2135.18" y="21.048" width="229.889px" height="229.889px" transform="matrix(0.999516,0,0,0.999516,0,0)"/>
+    <g transform="matrix(0.435963,0,0,0.301503,120.61,16.1761)">
+        <path d="M101.82,300C204.526,299.907 202.722,259.072 225,258.041C247.278,257.011 244.467,347.789 276.054,349.114C307.64,350.439 304.331,192.651 332.232,193.598C360.132,194.545 354.648,452.415 389.087,450C423.526,447.585 415.016,75.41 450,75C484.984,75.41 474.329,476.34 508.768,478.755C543.207,481.171 539.868,194.545 567.768,193.598C595.669,192.651 592.36,350.439 623.946,349.114C655.533,347.789 652.722,257.011 675,258.041C697.278,259.072 695.474,299.907 798.18,300C900.886,300.093 695.474,298.228 798.18,298.321C900.886,298.415 899.081,339.249 921.36,340.28C943.638,341.311 940.827,250.532 972.413,249.207C1004,247.883 1000.69,405.67 1028.59,404.723C1056.49,403.776 1053.15,117.151 1087.59,119.566C1122.03,121.981 1111.38,522.911 1146.36,523.321C1181.34,522.911 1172.83,150.737 1207.27,148.321C1241.71,145.906 1236.23,403.776 1264.13,404.723C1292.03,405.67 1288.72,247.883 1320.31,249.207C1351.89,250.532 1349.08,341.311 1371.36,340.28C1393.64,339.249 1391.83,298.415 1494.54,298.321" style="fill:none;stroke:rgb(51,104,69);stroke-opacity:0.3;stroke-width:11.12px;stroke-linecap:round;"/>
+    </g>
+    <!-- ...existing code... -->
+    <!-- Example body for a random person -->
+    <g transform="matrix(1,0,0,1,-120,1332.07)">
+        <text x="300px" y="1391.18px" style="font-family:'STIXTwoText', 'STIX Two Text';font-size:58.333px;fill:rgb(45,68,53);">Alex Johnson is a second-year graduate student in Applied Mathematics at RPI. Alex's research focuses on numerical analysis and scientific computing, with applications in fluid dynamics and optimization. Outside of academics, Alex enjoys hiking and digital art.</text>
+    </g>
+</svg>
